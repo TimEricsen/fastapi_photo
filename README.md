@@ -8,5 +8,5 @@
 This command will create and run the container with all the dependencies for you.
 
 3. Аfter creating a container, you can use it.
-4. 
+
 Sometimes the container may not start the first time, and if you encounter this problem, you will need to reset the container.
